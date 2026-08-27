@@ -50,5 +50,5 @@ Full detail, caveats, and how much to trust each number: see `02_modelling.ipynb
 
 ## Notes
 
-- Population screening concluded no exclusions were needed (see `00A_fraud_population_screening.ipynb`);
+- Population screening concluded no exclusions were needed (see `00B_fraud_population_screening.ipynb`);
   a few candidate cutoffs (amount tail, cold-start transactions) were investigated and kept.
