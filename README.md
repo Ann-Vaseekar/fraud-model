@@ -22,7 +22,7 @@ This repo contains the code and analysis.
 
 ## Order to read in
 
-`00_eda.ipynb` → `00A_fraud_population_screening.ipynb` → `01_feature_engineering.ipynb` →
+`00A_eda.ipynb` → `00B_fraud_population_screening.ipynb` → `01_feature_engineering.ipynb` →
 `02_modelling.ipynb`. 00 and 00A are exploratory/diagnostic; 01 builds the feature set that 02 reads in
 and does everything downstream on.
 
