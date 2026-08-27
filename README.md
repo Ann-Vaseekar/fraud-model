@@ -11,8 +11,8 @@ This repo contains the code and analysis.
 .
 ├── README.md
 ├── notebooks/
-│   ├── 00_eda.ipynb                       # first look: class balance, distributions, column decisions
-│   ├── 00A_fraud_population_screening.ipynb  # formal check for exclusions (conclusion: none)
+│   ├── 00A_eda.ipynb                       # first look: class balance, distributions, column decisions
+│   ├── 00B_fraud_population_screening.ipynb  # formal check for exclusions (conclusion: none)
 │   ├── 01_feature_engineering.ipynb       # builds the model-ready feature set, writes processed parquet
 │   └── 02_modelling.ipynb                 # model, policy, out-of-sample results, findings appendix,
 │                                           # decision log, and the four business-question answers
